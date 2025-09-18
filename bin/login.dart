@@ -3,4 +3,6 @@ main(){
 
   print("Added Password Encryption System!");
   print("Updated Ui!");
+  print("Updated Ui!");
+  print("Updated Ui!");
 }
